@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jamesrobbs01@gmail.com
+	name = James Robbs
